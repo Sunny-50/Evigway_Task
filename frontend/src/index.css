@@ -16,16 +16,16 @@ code {
 
 /* layout */
 :root {
-  --primary: #1aac83;
-  --error: #e7195a;
+  --primary: #051f75;
+  --error: #e7d219;
 }
 body {
-  background: #f1f1f1;
+  background: #c504f5;
   margin: 0;
   font-family: "Poppins";
 }
 header {
-  background: #fff;
+  background: #85d4f3;
 }
 header .container {
   max-width: 1400px;
